@@ -1,2 +1,2 @@
 # deeplearning
-Deep Learning prjects
+A collection of the deep learning projects/models that I created.
