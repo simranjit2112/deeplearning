@@ -6,7 +6,5 @@ This is a simple implementation of an auto-encoder that I did as a part of class
 
 The structure of the auto-encoder is:
 
-```markdown
 ![Alt text](./images⁩/structure.png?raw=true "")
-```
 
